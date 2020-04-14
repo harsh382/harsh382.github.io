@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Harsh Pal's website
+title: Harsh Pal
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -69,8 +69,8 @@ author:
 social-network-links:
   rss: true
   email: "hpal0097@gmail.com"
-  facebook: "https://www.facebook.com/profile.php?id=100026155134174"
-  github: "https://github.com/harsh382"
+  facebook: profile.php?id=100026155134174
+  github: harsh382
 # twitter: 
 #  reddit: yourname
 #  linkedin: daattali
