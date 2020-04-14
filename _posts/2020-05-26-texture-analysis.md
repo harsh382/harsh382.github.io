@@ -3,6 +3,7 @@ layout: post
 title: Texture Analysis using Image processing
 subtitle: Algorithm: Logical Binary Patterns
 bigimg: /img/path.jpg
+image: /img/hello_world.jpeg
 gh-repo: harsh382
 gh-badge: [star, fork, follow]
 ---
