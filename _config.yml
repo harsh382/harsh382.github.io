@@ -21,6 +21,7 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Courses: "courses"
   Resources:
     - Image Processing(OpenCV): "https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_intro/py_intro.html"
     - Deep Learning: "https://www.coursera.org/specializations/deep-learning"
