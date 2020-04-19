@@ -5,7 +5,7 @@ title: Harsh Pal
 logo: "/img/favicon-16x16.png"
 # Short description of your site
 description: A virtual proof that I'm awesome
-site_favicon: favicon.ico
+site_favicon: "favicon.ico"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
